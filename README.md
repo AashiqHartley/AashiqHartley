@@ -1,129 +1,290 @@
-<h1 align="center">Hi there, I'm Aashiq Hartley 👋</h1>
+<div align="center">
 
-<h3 align="center">Junior Software Engineer</h3>
+# Aashiq Hartley
 
-<p align="center">
-  I build practical software, explore new technologies, and continuously improve my skills through hands-on development.
-</p>
+### `Junior Software Engineer`
 
-<p align="center">
-  <a href="https://aashiqh.dev">Portfolio</a>
-  •
-  <a href="https://za.linkedin.com/in/aashiq-hartley-697117264">LinkedIn</a>
-  •
-  <a href="mailto:Aashiq.hartley@outlook.com">Email</a>
-</p>
+**Build → Break → Understand → Improve**
 
-<br/>
+[Portfolio](https://aashiqh.dev) · [GitHub](https://github.com/AashiqHartley) · [LinkedIn](https://za.linkedin.com/in/aashiq-hartley-697117264)
 
-### 🚀 About Me
+</div>
 
-* 💻 Junior Software Engineer focused on building practical, maintainable software
-* 🌱 Currently learning simple game development while continuing to strengthen my existing development skills
-* 🛠️ Interested in full-stack development, web applications, software architecture, and problem solving
-* 🧠 I enjoy learning by building projects and experimenting with new technologies
-* 🔧 Experienced with both frontend and backend development
-* 🚀 Interested in turning ideas into functional applications and continuously improving them
-* 📍 Based in South Africa
+---
 
-<br/>
+## `01` — Profile
 
-### 🛠️ Tech Stack
+I'm a Junior Software Engineer from South Africa who enjoys building software, understanding how things work, and improving systems over time.
 
-#### Frontend
+I'm naturally structured and methodical in how I approach development. I like breaking larger problems into smaller pieces, understanding the underlying logic, and working through problems rather than simply looking for a quick solution.
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
+Outside of development, I'm a big fan of **anime and manhua**. I enjoy the progression that comes with them: starting with something small, learning, adapting, and gradually becoming more capable.
 
-#### Backend
+That same idea influences how I approach software development.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
-</p>
+> **Start simple. Understand the system. Improve the system. Repeat.**
 
-#### Databases
+---
 
-<p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-</p>
+## `02` — Current Arc
 
-#### Tools & Platforms
+### Learning
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
-</p>
+**Game Development**
 
-<br/>
+I'm currently exploring simple game development while continuing to strengthen the technologies I already use.
 
-### 📌 What I'm Working On
+```text
+Current Focus
+────────────────────────────────────────────
 
-I'm continuously expanding my development skillset through personal projects and experimentation.
+Web Development        ████████████████████
+Backend Development    ██████████████████░░
+Software Engineering   ██████████████████░░
+Game Development       ████████████░░░░░░░░
+Cloud Infrastructure   ████████████░░░░░░░░
+```
 
-Current areas of focus include:
+---
 
-* 🌐 Building and improving full-stack web applications
-* 🎮 Exploring simple game development
-* ⚙️ Improving software architecture and development practices
-* 🧩 Strengthening problem-solving and debugging skills
-* ☁️ Learning more about deployment, hosting, and modern web infrastructure
-* 📚 Continuously learning and improving my existing technologies
+## `03` — Tech Arsenal
 
-<br/>
+### Languages
 
-### 💻 Featured Projects
+```text
+C#             JavaScript
+TypeScript     Python
+SQL            C++
+HTML           CSS
+```
 
-<p align="center">
-  <a href="https://github.com/AashiqHartley">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AashiqHartley&repo=Advisor-Placements&hide_border=true" />
-  </a>
-</p>
+### Frameworks & Platforms
 
-<br/>
+```text
+.NET            ASP.NET
+React           Flask
+Node.js         Express
+```
 
-### 📊 GitHub Stats
+### Databases
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AashiqHartley&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiqHartley&layout=compact&hide_border=true" />
-</p>
+```text
+Microsoft SQL Server
+MongoDB
+SQLite
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AashiqHartley&hide_border=true" />
-</p>
+### Infrastructure & Architecture
 
-<br/>
+```text
+Linux
+Cloud Infrastructure
+System Architecture
+Networking
+DNS
+Hosting
+Deployment
+```
 
-### 🌐 Find Me Online
+### Development Tools
 
-<p align="center">
-  <a href="https://za.linkedin.com/in/aashiq-hartley-697117264">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Aashiq.hartley@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=microsoftoutlook&logoColor=white" />
-  </a>
-  <a href="https://aashiqh.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+```text
+Git
+GitHub
+VS Code
+GitHub Copilot
+Cloudflare
+Netlify
+```
 
-<br/>
+### Hardware
 
-<p align="center">
-  <i>Always learning. Always building. Always improving.</i>
-</p>
+```text
+Arduino
+```
+
+---
+
+## `04` — Projects
+
+### `Personal Developer Platform`
+
+My personal website and developer platform.
+
+```text
+React · TypeScript · CSS · Cloudflare
+```
+
+The project has also involved deployment, DNS, custom domains, Cloudflare configuration, and the infrastructure required to take a project from local development to a publicly accessible application.
+
+→ **[aashiqh.dev](https://aashiqh.dev)**
+
+---
+
+### `Flask Task Manager`
+
+A Python web application built around task management and database-backed functionality.
+
+```text
+Python · Flask · SQLite
+```
+
+The project includes task management, priorities, due dates, completion states, server-side rendering, and database integration.
+
+---
+
+### `Advisor Placements`
+
+A web project involving frontend development, version control, deployment, and custom domain configuration.
+
+```text
+React · GitHub · Netlify · DNS
+```
+
+---
+
+### `Arduino Memory Game`
+
+A small hardware/software project combining programming with electronics.
+
+```text
+C++ · Arduino · LCD · I2C · LEDs · Buttons
+```
+
+---
+
+## `05` — Development Philosophy
+
+I approach development in a fairly methodical way.
+
+```text
+                    ┌──────────────┐
+                    │     IDEA     │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   BREAK IT   │
+                    │ INTO SYSTEMS │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    BUILD     │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    TEST      │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    DEBUG     │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   IMPROVE    │
+                    └──────┬───────┘
+                           │
+                           └──────────────→ Repeat
+```
+
+I don't expect to know everything immediately.
+
+When something doesn't work, I prefer understanding **why** it doesn't work so that I can apply that knowledge somewhere else later.
+
+---
+
+## `06` — Current Interests
+
+```text
+Software Engineering
+├── Web Applications
+├── Backend Development
+├── APIs
+├── Databases
+├── Architecture
+└── Infrastructure
+
+Development
+├── Frontend
+├── Backend
+├── .NET
+└── Game Development
+
+Systems
+├── Linux
+├── Cloud Infrastructure
+├── Networking
+└── Deployment
+
+Personal Interests
+├── Anime
+├── Manhua
+└── Technology
+```
+
+---
+
+## `07` — Progression
+
+Like a good cultivation story, development is mostly about progression.
+
+```text
+           ┌──────────────────────┐
+           │      BEGINNER        │
+           └──────────┬───────────┘
+                      │
+                      ▼
+           ┌──────────────────────┐
+           │       BUILD          │
+           └──────────┬───────────┘
+                      │
+                      ▼
+           ┌──────────────────────┐
+           │      ENCOUNTER       │
+           │       PROBLEMS       │
+           └──────────┬───────────┘
+                      │
+                      ▼
+           ┌──────────────────────┐
+           │      UNDERSTAND      │
+           └──────────┬───────────┘
+                      │
+                      ▼
+           ┌──────────────────────┐
+           │       IMPROVE        │
+           └──────────┬───────────┘
+                      │
+                      ▼
+           ┌──────────────────────┐
+           │        REPEAT        │
+           └──────────────────────┘
+```
+
+**Current realm:** `Junior Software Engineer`
+
+**Next objective:** `Become a stronger software engineer`
+
+---
+
+## `08` — GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AashiqHartley&show_icons=true&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiqHartley&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `END OF CHAPTER`
+
+**There is always another system to understand.**
+
+[![Portfolio](https://img.shields.io/badge/aashiqh.dev-111111?style=flat-square\&logo=googlechrome\&logoColor=white)](https://aashiqh.dev)
+[![GitHub](https://img.shields.io/badge/AashiqHartley-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/AashiqHartley)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://za.linkedin.com/in/aashiq-hartley-697117264)
+
+</div>
