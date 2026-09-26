@@ -52,7 +52,7 @@ I'm currently exploring **simple game development** while continuing to strength
 
 ### Frameworks & Platforms
 
-` .NET` · `ASP.NET` · `React` · `Flask` · `Node.js` · `Express`
+`.NET` · `ASP.NET` · `React` · `Flask` · `Node.js` · `Express`
 
 ### Databases
 
@@ -116,37 +116,37 @@ A small hardware/software project combining programming with electronics.
 
 I approach development in a structured and methodical way.
 
-**01 — Understand**
+### `01` — Understand
 
 Define the problem and understand what the system needs to do.
 
 ↓
 
-**02 — Break Down**
+### `02` — Break Down
 
 Separate the problem into smaller, manageable pieces.
 
 ↓
 
-**03 — Build**
+### `03` — Build
 
 Implement the solution one part at a time.
 
 ↓
 
-**04 — Test**
+### `04` — Test
 
 Find what works, what doesn't, and where things break.
 
 ↓
 
-**05 — Understand**
+### `05` — Understand
 
 Investigate the cause instead of only fixing the symptom.
 
 ↓
 
-**06 — Improve**
+### `06` — Improve
 
 Refactor, simplify, and apply what I've learned.
 
@@ -170,6 +170,8 @@ Refactor, simplify, and apply what I've learned.
 * Frontend
 * Backend
 * .NET
+* ASP.NET
+* C#
 * Game development
 * Continuous learning
 
@@ -180,6 +182,7 @@ Refactor, simplify, and apply what I've learned.
 * Networking
 * Deployment
 * Hosting
+* DNS
 
 ### Outside Code
 
@@ -207,25 +210,31 @@ I'm focused on becoming better at understanding systems, solving problems, and b
 
 ## `08` — GitHub
 
-<div align="center">
+### Open Source & Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=AashiqHartley&show_icons=true&hide_border=true&count_private=true" width="100%" />
+You can explore my work, repositories, and development activity directly through my GitHub profile.
 
-<br/>
+**Repositories**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiqHartley&layout=compact&hide_border=true" width="100%" />
+Building projects across:
 
-</div>
+`C#` · `.NET` · `ASP.NET` · `React` · `Python` · `JavaScript` · `SQL`
+
+**Currently exploring**
+
+`Game Development` · `Cloud Infrastructure` · `System Architecture` · `Linux`
+
+→ **[View my GitHub](https://github.com/AashiqHartley)**
 
 ---
 
 <div align="center">
 
-### `END OF CHAPTER`
+### `BUILD LOG`
 
-**There is always another system to understand.**
+**Projects change. Skills improve. The next commit is always another step forward.**
 
-<br/>
+<br>
 
 [Portfolio](https://aashiqh.dev) · [GitHub](https://github.com/AashiqHartley) · [LinkedIn](https://za.linkedin.com/in/aashiq-hartley-697117264)
 
