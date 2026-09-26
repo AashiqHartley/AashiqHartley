@@ -30,20 +30,17 @@ That same idea influences how I approach software development.
 
 ### Learning
 
-**Game Development**
+I'm currently exploring **simple game development** while continuing to strengthen the technologies I already use.
 
-I'm currently exploring simple game development while continuing to strengthen the technologies I already use.
+### Current Focus
 
-```text
-Current Focus
-────────────────────────────────────────────
-
-Web Development        ████████████████████
-Backend Development    ██████████████████░░
-Software Engineering   ██████████████████░░
-Game Development       ████████████░░░░░░░░
-Cloud Infrastructure   ████████████░░░░░░░░
-```
+| Area                 | Focus                  |
+| -------------------- | ---------------------- |
+| Web Development      | `████████████████████` |
+| Backend Development  | `██████████████████░░` |
+| Software Engineering | `██████████████████░░` |
+| Game Development     | `████████████░░░░░░░░` |
+| Cloud Infrastructure | `████████████░░░░░░░░` |
 
 ---
 
@@ -51,69 +48,37 @@ Cloud Infrastructure   ████████████░░░░░░░
 
 ### Languages
 
-```text
-C#             JavaScript
-TypeScript     Python
-SQL            C++
-HTML           CSS
-```
+`C#` · `JavaScript` · `TypeScript` · `Python` · `SQL` · `C++` · `HTML` · `CSS`
 
 ### Frameworks & Platforms
 
-```text
-.NET            ASP.NET
-React           Flask
-Node.js         Express
-```
+` .NET` · `ASP.NET` · `React` · `Flask` · `Node.js` · `Express`
 
 ### Databases
 
-```text
-Microsoft SQL Server
-MongoDB
-SQLite
-```
+`Microsoft SQL Server` · `MongoDB` · `SQLite`
 
 ### Infrastructure & Architecture
 
-```text
-Linux
-Cloud Infrastructure
-System Architecture
-Networking
-DNS
-Hosting
-Deployment
-```
+`Linux` · `Cloud Infrastructure` · `System Architecture` · `Networking` · `DNS` · `Hosting` · `Deployment`
 
 ### Development Tools
 
-```text
-Git
-GitHub
-VS Code
-GitHub Copilot
-Cloudflare
-Netlify
-```
+`Git` · `GitHub` · `VS Code` · `GitHub Copilot` · `Cloudflare` · `Netlify`
 
 ### Hardware
 
-```text
-Arduino
-```
+`Arduino`
 
 ---
 
 ## `04` — Projects
 
-### `Personal Developer Platform`
+### Personal Developer Platform
 
 My personal website and developer platform.
 
-```text
-React · TypeScript · CSS · Cloudflare
-```
+**Stack:** `React` · `TypeScript` · `CSS` · `Cloudflare`
 
 The project has also involved deployment, DNS, custom domains, Cloudflare configuration, and the infrastructure required to take a project from local development to a publicly accessible application.
 
@@ -121,143 +86,118 @@ The project has also involved deployment, DNS, custom domains, Cloudflare config
 
 ---
 
-### `Flask Task Manager`
+### Flask Task Manager
 
 A Python web application built around task management and database-backed functionality.
 
-```text
-Python · Flask · SQLite
-```
+**Stack:** `Python` · `Flask` · `SQLite`
 
 The project includes task management, priorities, due dates, completion states, server-side rendering, and database integration.
 
 ---
 
-### `Advisor Placements`
+### Advisor Placements
 
 A web project involving frontend development, version control, deployment, and custom domain configuration.
 
-```text
-React · GitHub · Netlify · DNS
-```
+**Stack:** `React` · `GitHub` · `Netlify` · `DNS`
 
 ---
 
-### `Arduino Memory Game`
+### Arduino Memory Game
 
 A small hardware/software project combining programming with electronics.
 
-```text
-C++ · Arduino · LCD · I2C · LEDs · Buttons
-```
+**Stack:** `C++` · `Arduino` · `LCD` · `I2C` · `LEDs` · `Buttons`
 
 ---
 
 ## `05` — Development Philosophy
 
-I approach development in a fairly methodical way.
+I approach development in a structured and methodical way.
 
-```text
-                    ┌──────────────┐
-                    │     IDEA     │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │   BREAK IT   │
-                    │ INTO SYSTEMS │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │    BUILD     │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │    TEST      │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │    DEBUG     │
-                    └──────┬───────┘
-                           ↓
-                    ┌──────────────┐
-                    │   IMPROVE    │
-                    └──────┬───────┘
-                           │
-                           └──────────────→ Repeat
-```
+**01 — Understand**
 
-I don't expect to know everything immediately.
+Define the problem and understand what the system needs to do.
 
-When something doesn't work, I prefer understanding **why** it doesn't work so that I can apply that knowledge somewhere else later.
+↓
+
+**02 — Break Down**
+
+Separate the problem into smaller, manageable pieces.
+
+↓
+
+**03 — Build**
+
+Implement the solution one part at a time.
+
+↓
+
+**04 — Test**
+
+Find what works, what doesn't, and where things break.
+
+↓
+
+**05 — Understand**
+
+Investigate the cause instead of only fixing the symptom.
+
+↓
+
+**06 — Improve**
+
+Refactor, simplify, and apply what I've learned.
+
+> **Build → Break → Understand → Improve**
 
 ---
 
 ## `06` — Current Interests
 
-```text
-Software Engineering
-├── Web Applications
-├── Backend Development
-├── APIs
-├── Databases
-├── Architecture
-└── Infrastructure
+### Software Engineering
 
-Development
-├── Frontend
-├── Backend
-├── .NET
-└── Game Development
+* Web applications
+* Backend development
+* APIs
+* Databases
+* Architecture
+* Infrastructure
 
-Systems
-├── Linux
-├── Cloud Infrastructure
-├── Networking
-└── Deployment
+### Development
 
-Personal Interests
-├── Anime
-├── Manhua
-└── Technology
-```
+* Frontend
+* Backend
+* .NET
+* Game development
+* Continuous learning
+
+### Systems
+
+* Linux
+* Cloud infrastructure
+* Networking
+* Deployment
+* Hosting
+
+### Outside Code
+
+* Anime
+* Manhua
+* Technology
 
 ---
 
 ## `07` — Progression
 
-Like a good cultivation story, development is mostly about progression.
+Like a good cultivation story, development is about progression.
 
-```text
-           ┌──────────────────────┐
-           │      BEGINNER        │
-           └──────────┬───────────┘
-                      │
-                      ▼
-           ┌──────────────────────┐
-           │       BUILD          │
-           └──────────┬───────────┘
-                      │
-                      ▼
-           ┌──────────────────────┐
-           │      ENCOUNTER       │
-           │       PROBLEMS       │
-           └──────────┬───────────┘
-                      │
-                      ▼
-           ┌──────────────────────┐
-           │      UNDERSTAND      │
-           └──────────┬───────────┘
-                      │
-                      ▼
-           ┌──────────────────────┐
-           │       IMPROVE        │
-           └──────────┬───────────┘
-                      │
-                      ▼
-           ┌──────────────────────┐
-           │        REPEAT        │
-           └──────────────────────┘
-```
+**Begin → Build → Struggle → Understand → Improve → Repeat**
+
+I'm not trying to know everything at once.
+
+I'm focused on becoming better at understanding systems, solving problems, and building software that works.
 
 **Current realm:** `Junior Software Engineer`
 
@@ -269,9 +209,11 @@ Like a good cultivation story, development is mostly about progression.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AashiqHartley&show_icons=true&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=AashiqHartley&show_icons=true&hide_border=true&count_private=true" width="100%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiqHartley&layout=compact&hide_border=true" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashiqHartley&layout=compact&hide_border=true" width="100%" />
 
 </div>
 
@@ -283,8 +225,8 @@ Like a good cultivation story, development is mostly about progression.
 
 **There is always another system to understand.**
 
-[![Portfolio](https://img.shields.io/badge/aashiqh.dev-111111?style=flat-square\&logo=googlechrome\&logoColor=white)](https://aashiqh.dev)
-[![GitHub](https://img.shields.io/badge/AashiqHartley-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/AashiqHartley)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://za.linkedin.com/in/aashiq-hartley-697117264)
+<br/>
+
+[Portfolio](https://aashiqh.dev) · [GitHub](https://github.com/AashiqHartley) · [LinkedIn](https://za.linkedin.com/in/aashiq-hartley-697117264)
 
 </div>
